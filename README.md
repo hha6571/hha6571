@@ -7,3 +7,6 @@
 # 📝 Blog 
 - https://hayoonuniverse.tistory.com/
 
+# 💻 Project 
+- WITH TRIP
+- PET ME COME
